@@ -1,4 +1,8 @@
 # CS-584-Final-Project
+
+Group 18
+
+
 Time Series Forecasting on Individual Household Electricity Consumption Data  
 
 1. Kamble Soham <skamble2@hawk.iit.edu>
