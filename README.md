@@ -1,7 +1,7 @@
 # CS-584-Final-Project
-Time Series Forecasting on Electricity Data  
+Time Series Forecasting on Individual Household Electricity Consumption Data  
 
-Kamble Soham <skamble2@hawk.iit.edu>\
-Kotkar Pranit <pkotkar1@hawk.iit.edu>\
-Chawla Bhavya <bchawla@hawk.iit.edu>
+1. Kamble Soham <skamble2@hawk.iit.edu>\
+2. Kotkar Pranit <pkotkar1@hawk.iit.edu>\
+3. Chawla Bhavya <bchawla@hawk.iit.edu>
 
