@@ -8,3 +8,5 @@ Using a multivariate time series dataset spanning four years, the research aims 
 EncoderDecoder LSTM displays accuracy on specific days, CNN-LSTM captures trends with fine-tuning needs and Conv-LSTM adeptly handles data complexities.  
 While the models show promise, limitations necessitate refinement, calibration, and consideration of outlier events.  
 This study contributes insights for advancing time series forecasting for household power consumption, laying the foundation for innovative predictive models.
+
+![image](https://github.com/BhavyaChawlaGit/Encoder-Decoder-LSTMs-on-Individual-Household-Electricity-Consumption-Data/assets/112718303/454455a7-46a2-4dff-a2bf-9bd63c193e5b)
