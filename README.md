@@ -2,7 +2,7 @@
 ## Employing models like Encoder-Decoder LSTMs, CNN-LSTM Encoder-Decoder, and Conv-LSTM Encoder-Decoder.  
 
 Using a multivariate time series dataset spanning four years, the research aims to predict total active power usage over the next seven days.
-https://github.com/BhavyaChawlaGit/Encoder-Decoder-LSTMs-on-Individual-Household-Electricity-Consumption-Data/blob/main/Report.pdf
+## [Research](https://github.com/BhavyaChawlaGit/Encoder-Decoder-LSTMs-on-Individual-Household-Electricity-Consumption-Data/blob/main/Report.pdf)
 
 ## Data Collection
 For the project, the [Individual Household Electric Power Consumption provided by the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) was chosen.  
