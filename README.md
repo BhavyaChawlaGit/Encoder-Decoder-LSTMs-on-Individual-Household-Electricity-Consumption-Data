@@ -5,7 +5,7 @@ Using a multivariate time series dataset spanning four years, the research aims 
 https://github.com/BhavyaChawlaGit/Encoder-Decoder-LSTMs-on-Individual-Household-Electricity-Consumption-Data/blob/main/Report.pdf
 
 ## Data Collection
-For the project, the Individual Household Electric Power Consumption provided by the UCI Machine Learning Repository was chosen.  
+For the project, the [Individual Household Electric Power Consumption provided by the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) was chosen.  
 The dataset has fields such as Date, Time, Global Active Power, Global Reactive Power, Voltage, Global Intensity,  
 sub_metering_1 which corresponds to the kitchen,  
 sub_metering_2 which corresponds to the Laundry Room,  
